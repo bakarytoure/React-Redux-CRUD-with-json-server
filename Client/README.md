@@ -6,4 +6,4 @@
 * Reactjs for creating component.
 * Redux for menaging the business logic.
 * Sementic ui for styling purpose.
-* Json-Server
+* Json-Server for backend communication with the Front end.
